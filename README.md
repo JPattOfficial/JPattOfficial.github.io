@@ -1,0 +1,1 @@
+This repository holds the files for my GitHub Pages portfolio website. There are HTML, CSS, JavaScript, and image files. It is a simple one page site that tells a little about myself, shows some of my skills, and provides links to learn more about me.
